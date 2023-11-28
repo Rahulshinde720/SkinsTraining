@@ -1,0 +1,22 @@
+html, body {
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.box{
+
+    width: 20%;
+    height: 20%;
+    background-color: hsla(0, 100%, 20%, 0.9);
+
+}
+
+.nrml {
+
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 2em;
+font-weight: 100;
+
+font-style:oblique;
+}
