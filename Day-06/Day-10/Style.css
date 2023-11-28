@@ -1,0 +1,24 @@
+.container {
+
+    width: 200px;
+    height: 100px;
+    border: 2px solid red;
+    overflow:auto;
+}
+
+.container::-webkit-scrollbar {
+
+width: 15px;
+}
+
+
+.container::-webkit-scrollbar-track {
+    background-color: Blue;
+}
+
+
+.container::-webkit-scrollbar-thumb {
+    background-color: yellow;
+
+} 
+
