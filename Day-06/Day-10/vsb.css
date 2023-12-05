@@ -1,0 +1,18 @@
+.box {
+
+
+width: 250px;
+height: 300px;
+background-color: lightgray;
+}
+
+.hide-it {
+
+    visibility:hidden;
+    display: block;
+}
+
+.red { 
+
+    background-color: red;
+}
