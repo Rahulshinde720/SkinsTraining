@@ -1,0 +1,32 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+}   
+
+.container {
+
+    width: 100%;
+    height: 80%;
+
+    display: flex;
+
+    background-color: aliceblue;
+    flex-direction:row;
+  
+}
+
+.left-menu {
+
+width: 20%;
+height: 100%;
+background-color: aquamarine;
+float: right;
+
+}
+
+.content {
+
+    width: 80%;
+    height: 100%;
+background-color: beige;
+}
