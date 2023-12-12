@@ -1,0 +1,38 @@
+html, body {
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.grid-container {
+
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    gap:10px;
+}
+
+Section >div {
+    font-size: 25px;
+    background-color: aquamarine;
+}
+
+/* .item1 {
+
+    /* grid-row-start: span 2; 
+    grid-column-start: span 2;
+
+} */
+
+/* .item1 {
+   grid-column-start: span 2;
+   grid-column-end: span 3; 
+grid-row-end: span 3;
+
+} */
+
+ .item1 {
+
+    /grid-row-end: span 2; 
+    grid-column-start: span 2;
+
+} 
