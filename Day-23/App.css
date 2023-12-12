@@ -1,0 +1,21 @@
+html, Body {
+
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.grid-container {
+
+    display: grid;
+    /* margin-left: 2px; */
+    grid-template-columns: 350px 350px 350px 200px ;
+    border: 2px solid red;
+    /* gap: 8px; */
+}
+
+section > div {
+
+    background-color: aquamarine;
+    font-size: 1em;
+}
