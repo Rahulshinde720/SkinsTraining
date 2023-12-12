@@ -56,4 +56,5 @@ main {
     margin-left: 4px;
     flex-grow: 4;
     flex-shrink: 2;
+    /* flex-basis: 300px */
 }
