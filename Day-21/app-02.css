@@ -1,0 +1,59 @@
+html, body {
+
+    width: 100vw;
+    height: 100vh;
+
+}
+
+main {
+
+    width: 50%;
+    height: 20%;
+    background-color: aquamarine;
+    display: flex;
+    align-items: stretch;
+}
+
+.large-Title {
+
+    font-size: 3em;
+    color: black;
+    text-align: center;
+    
+}
+
+.box-1 {
+
+    background-color: lightseagreen;
+    margin-left: 4px;
+    flex-grow: 4;
+    flex-shrink: 2;
+}
+.box-2 {
+
+    background-color: lightpink;
+    margin-left: 4px;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+.box-3 {
+
+    background-color: lightcyan;
+    margin-left: 4px;
+    flex-grow: 6;
+    flex-shrink: 1;
+}
+.box-4 {
+
+    background-color: yellow;
+    margin-left: 4px;
+    /* flex-grow: 4; */
+    flex-shrink: 2;
+}
+.box-5 {
+
+    background-color: lightblue;
+    margin-left: 4px;
+    flex-grow: 4;
+    flex-shrink: 2;
+}
