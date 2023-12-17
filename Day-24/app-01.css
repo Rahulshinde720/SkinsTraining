@@ -9,8 +9,9 @@ html, body {
     grid-area: cell1;
 }
 
-.item1 {
+.item2 {
     grid-area: cell2;
+    background-color: blue;
 }
 
 .grid-container {
@@ -21,7 +22,7 @@ html, body {
 
     grid-template-areas: 
     "cell1 cell1 cell2 ."
-    "Cell1 cell1 cell2 .";
+    "cell1 cell1 cell2 .";
 }
 
 section > div {
