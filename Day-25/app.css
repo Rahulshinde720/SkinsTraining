@@ -21,7 +21,7 @@ section {
 
 .grid-item-1 { 
 
-   
+  /* check with Aniruddha for questions*/ 
     grid-column-start: 1;
     grid-column-end: 3;
     grid-row-start: 1;
