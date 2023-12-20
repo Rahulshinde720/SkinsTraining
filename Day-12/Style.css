@@ -1,0 +1,49 @@
+.gd-txt {
+    padding: 1em;
+}
+
+.txt01 {
+
+    color: white;
+    background-color: black;
+}
+
+.txt02 { 
+    text-align: center;
+    vertical-align: bottom;
+}
+
+.txt03 {
+    width: 300px;
+    height: 300px;
+    text-align: justify;
+    overflow: auto;
+}
+
+.txt04{
+    vertical-align:top ;
+    font-style: italic;
+}
+
+.top-1 {
+
+    margin: 1em;
+}
+
+.faint-gray {
+    background-color: aquamarine;
+}
+
+.p-2{
+    padding: 2em;
+}
+
+.p-cont {
+    text-align: center;
+    font-size: 2em;
+}
+
+.txt05 {
+    direction:rtl;  /*check with Aniruddha for query*/
+    unicode-bidi: bidi-override;
+}
