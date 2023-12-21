@@ -1,0 +1,10 @@
+.Decoration-1 {
+
+    text-decoration: underline overline red double 3px;
+}
+
+.Decoration-2 {
+
+    text-decoration: line-through;
+    text-decoration: color rgb(0,255,0);
+}
